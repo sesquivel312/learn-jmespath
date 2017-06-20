@@ -1,6 +1,6 @@
     "Reservations": [
         {
-            "OwnerId": "507908987273", 
+            "OwnerId": "123456", 
             "ReservationId": "r-0e85b739222dd211c", 
             "Groups": [], 
             "Instances": [
@@ -47,7 +47,7 @@
                             "Association": {
                                 "PublicIp": "52.41.30.135", 
                                 "PublicDnsName": "ec2-52-41-30-135.us-west-2.compute.amazonaws.com", 
-                                "IpOwnerId": "507908987273"
+                                "IpOwnerId": "123456"
                             }, 
                             "NetworkInterfaceId": "eni-4a435170", 
                             "PrivateIpAddresses": [
@@ -56,7 +56,7 @@
                                     "Association": {
                                         "PublicIp": "52.41.30.135", 
                                         "PublicDnsName": "ec2-52-41-30-135.us-west-2.compute.amazonaws.com", 
-                                        "IpOwnerId": "507908987273"
+                                        "IpOwnerId": "123456"
                                     }, 
                                     "Primary": true, 
                                     "PrivateIpAddress": "172.16.12.133"
@@ -81,7 +81,7 @@
                                 }
                             ], 
                             "SubnetId": "subnet-8af268c3", 
-                            "OwnerId": "507908987273", 
+                            "OwnerId": "123456", 
                             "PrivateIpAddress": "172.16.12.133"
                         }
                     ], 
@@ -118,7 +118,7 @@
             ]
         }, 
         {
-            "OwnerId": "507908987273", 
+            "OwnerId": "123456", 
             "ReservationId": "r-0b225797f00a62833", 
             "Groups": [], 
             "Instances": [
@@ -188,7 +188,7 @@
                                 }
                             ], 
                             "SubnetId": "subnet-8bf268c2", 
-                            "OwnerId": "507908987273", 
+                            "OwnerId": "123456", 
                             "PrivateIpAddress": "172.31.44.42"
                         }
                     ], 
@@ -225,7 +225,7 @@
             ]
         }, 
         {
-            "OwnerId": "507908987273", 
+            "OwnerId": "123456", 
             "ReservationId": "r-0c342de730210a12b", 
             "Groups": [], 
             "Instances": [
@@ -299,7 +299,7 @@
                                 }
                             ], 
                             "SubnetId": "subnet-b5fc66fc", 
-                            "OwnerId": "507908987273", 
+                            "OwnerId": "123456", 
                             "PrivateIpAddress": "172.31.72.34"
                         }, 
                         {
@@ -331,7 +331,7 @@
                                 }
                             ], 
                             "SubnetId": "subnet-b5fc66fc", 
-                            "OwnerId": "507908987273", 
+                            "OwnerId": "123456", 
                             "PrivateIpAddress": "172.31.69.154"
                         }, 
                         {
@@ -363,7 +363,7 @@
                                 }
                             ], 
                             "SubnetId": "subnet-8bf268c2", 
-                            "OwnerId": "507908987273", 
+                            "OwnerId": "123456", 
                             "PrivateIpAddress": "172.31.34.193"
                         }
                     ], 
@@ -400,7 +400,7 @@
             ]
         }, 
         {
-            "OwnerId": "507908987273", 
+            "OwnerId": "123456", 
             "ReservationId": "r-00a00fb424d6b79b9", 
             "Groups": [], 
             "Instances": [
@@ -469,7 +469,7 @@
                                 }
                             ], 
                             "SubnetId": "subnet-8af268c3", 
-                            "OwnerId": "507908987273", 
+                            "OwnerId": "123456", 
                             "PrivateIpAddress": "172.16.2.224"
                         }
                     ], 
